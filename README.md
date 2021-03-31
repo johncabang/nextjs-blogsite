@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+### NEXT.JS Blogsite
+
+!["nextjs blogsite "](https://github.com/johncabang/nextjs-blogsite/blob/main/docs/nextjs-blogsite-screenshot001.png?raw=true)
