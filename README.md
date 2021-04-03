@@ -1,4 +1,4 @@
-### NEXT.JS SAMPLE BlOGSITE
+### NEXT.JS SAMPLE BLOGSITE
 
 ### View Demo
 
